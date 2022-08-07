@@ -1,0 +1,10 @@
+{
+  "prettier.printWidth": 120,
+  "editor.tabSize": 2,
+  "prettier.tabWidth": 2,
+  "prettier.singleQuote": true,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  }
+}
